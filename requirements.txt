@@ -1,0 +1,7 @@
+flask
+twilio
+apscheduler
+pandas
+python-dotenv
+jupyter
+notebook
