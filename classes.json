@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Amaka",
+    "phone": "+2348012345678",
+    "course": "EEE 301",
+    "location": "Engineering Block A",
+    "class_time": "14:00"
+  },
+  {
+    "id": 2,
+    "name": "Chidi",
+    "phone": "+2348098765432",
+    "course": "MTH 201",
+    "location": "Science Faculty Hall",
+    "class_time": "09:30"
+  }
+]
